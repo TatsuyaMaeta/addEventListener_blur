@@ -1,0 +1,2 @@
+# addEventListener_blur
+アドイベントリスナーのblurを活用した時間の加算処理イベント
